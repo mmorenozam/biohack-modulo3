@@ -726,7 +726,7 @@ msleep %>%
 
 2)  Crea dentro de este proyecto una carpeta de nombre "datos"
 
-3)  Ingresa a la sección de ["Materiales y recursos"](https://mmorenozam.github.io/see-quarto-website/materiales.html){target="_blank"} del curso y descarga el archivo comprimido datos.zip.
+3)  Ingresa a la sección de ["Materiales y recursos"](https://mmorenozam.github.io/biohack-website/recursos.html){target="_blank"} del curso y descarga el archivo comprimido datos.zip.
 
 4)  Extrae los archivos del .zip en tu carpeta de "datos".
 
