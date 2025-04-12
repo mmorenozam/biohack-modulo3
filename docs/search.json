@@ -172,7 +172,7 @@
     "href": "biohack-modulo3.html#antes-de-countinuar-tibbles",
     "title": "biohack-modulo3",
     "section": "Antes de countinuar: Tibbles",
-    "text": "Antes de countinuar: Tibbles\n\n\nCómo te habras dado cuenta, en el prompt de R vemos que la tabla es llamada # A tibble.\nUn tibble es una version de tablas de datos generada por el paquete del mismo nombre que a su vez es parte del {tidyverse}.\nLas diferencias con las clásicas tablas de datos son:\n\nPor default, al llamar un tibble, se imprimen únicamente las primeras diez filas de la tabla.\nLos tibbles son más sensibles a errores del programador. Esto es una ventaja al ofrecer un ambiente menos propenso a errores.\nPara operaciones complejas (sobre todo en tablas muy grandes) como unir varias tablas, crear nuevas variables, etc. los tibbles son más eficientes."
+    "text": "Antes de countinuar: Tibbles\n\n\nCómo te habras dado cuenta, en el prompt de R vemos que la tabla es llamada # A tibble.\nUn tibble es una version de tablas de datos generada por el paquete del mismo nombre que a su vez es parte del {tidyverse}.\nLas diferencias con las clásicas tablas de datos son:\n\nPor default, al llamar un tibble, se imprimen únicamente las primeras diez filas de la tabla.\nLos tibbles son más sensibles a errores del programador. Esto es una ventaja al ofrecer un ambiente donde identificarlos es más fácil..\nPara operaciones complejas (sobre todo en tablas muy grandes) como unir varias tablas, crear nuevas variables, etc. los tibbles son más eficientes."
   },
   {
     "objectID": "biohack-modulo3.html#seleccionando-columnas",
